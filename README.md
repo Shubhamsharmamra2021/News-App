@@ -11,6 +11,4 @@ https://user-images.githubusercontent.com/80365271/195938175-d796127e-dfc3-4221-
 
 <img width="200" alt="Screenshot_2022-10-15-01-43-05-396_com news" src="https://user-images.githubusercontent.com/80365271/195938678-dcf17f33-bcb1-43e3-85d8-5c85c3515079.jpg">                 <img width="200" alt="Screenshot_2022-10-15-01-43-30-429_com news" src="https://user-images.githubusercontent.com/80365271/195938689-2cf80efe-dc37-4bd6-a653-c477678d06e0.jpg">                 <img width="200" alt="Screenshot_2022-10-15-01-43-38-107_com news" src="https://user-images.githubusercontent.com/80365271/195938705-ab6dd124-a502-4404-85e2-7188b9335dfd.jpg">                 <img width="200" alt="Screenshot_2022-10-15-01-43-52-730_com news" src="https://user-images.githubusercontent.com/80365271/195938711-fe2a6d4b-86ec-4188-bc6e-4409eb61edc5.jpg">
 
-## Android Build 
-
- 
+## Android Build  -> <a href="https://i.diawi.com/QNDdjP" target="_blank">News APP Build</a>
